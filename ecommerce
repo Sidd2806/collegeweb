@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latest Mobile Launch</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Introducing the New XYZ Phone</h1>
+    </header>
+
+    <main>
+        <section class="hero">
+            <img src="xyz-phone.jpg" alt="XYZ Phone" class="phone-image">
+            <div class="hero-text">
+                <h2>Experience Innovation</h2>
+                <p>The XYZ Phone brings you cutting-edge technology at your fingertips.</p>
+                <a href="#specs" class="cta-button">View Specifications</a>
+            </div>
+        </section>
+
+        <section id="specs">
+            <h2>Specifications</h2>
+            <ul>
+                <li><strong>Display:</strong> 6.7" AMOLED, 120Hz</li>
+                <li><strong>Processor:</strong> A12 Bionic Chip</li>
+                <li><strong>Camera:</strong> 108 MP Triple Camera</li>
+                <li><strong>Battery:</strong> 4500 mAh</li>
+                <li><strong>Storage:</strong> 128GB / 256GB options</li>
+                <li><strong>Operating System:</strong> Android 14</li>
+            </ul>
+        </section>
+
+        <section id="features">
+            <h2>Key Features</h2>
+            <div class="feature">
+                <h3>Stunning Display</h3>
+                <p>Enjoy vibrant colors and sharp details with our new AMOLED display.</p>
+            </div>
+            <div class="feature">
+                <h3>Exceptional Camera</h3>
+                <p>Capture every moment with our state-of-the-art triple camera system.</p>
+            </div>
+            <div class="feature">
+                <h3>Long-lasting Battery</h3>
+                <p>Stay powered all day with our efficient battery technology.</p>
+            </div>
+        </section>
+
+        <section id="buy">
+            <h2>Get Yours Today!</h2>
+            <p>Available now at your nearest retailer or online.</p>
+            <a href="https://example.com/buy" class="cta-button">Buy Now</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 XYZ Company. All rights reserved.</p>
+    </footer>
+</body>
+</html>
